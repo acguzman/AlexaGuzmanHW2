@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655180596930",
+    "firebase_url": "https://alexaguzmanhw2.firebaseio.com",
+    "project_id": "alexaguzmanhw2",
+    "storage_bucket": "alexaguzmanhw2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655180596930:android:c31c0c4737aa5d44",
+        "android_client_info": {
+          "package_name": "com.example.alexa.alexaguzmanhw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655180596930-f34ongkf041c416e31t4hb6a5k0dl3p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexa.alexaguzmanhw2",
+            "certificate_hash": "498c2d414d931e762adba1578c52fb4736373e89"
+          }
+        },
+        {
+          "client_id": "655180596930-p8oam6qcb1sednrr1uvnhojv7oohds0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQWGkj63ol5sjAN5lKQyLjYFywLLB-9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655180596930-p8oam6qcb1sednrr1uvnhojv7oohds0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlexaGuzmanHW2</string>
+    <string name="title_activity_inv_check">InvCheck</string>
+    <string name="title_activity_add_inventory">AddInventory</string>
+</resources>
